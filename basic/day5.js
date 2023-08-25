@@ -16,4 +16,8 @@ let pop = arr.pop()
 // console.log(pop)
 arr.push(99)
 
-console.log(arr)
+//console.log(arr)
+
+console.log(arr.filter((i)=> i.length<5))
+
+console.log(arr.shift());
