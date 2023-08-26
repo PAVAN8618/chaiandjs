@@ -1,0 +1,32 @@
+html{
+    margin: 0px;
+}
+span{
+    display: block;
+ 
+}
+
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button{
+    height: 100px;
+    width:100px;
+   border: solid black 2px;
+    display: inline-block;
+}
+
+#yellow{
+    background: rgb(255, 255, 0);
+}
+
+#red{
+    background: rgb(255, 0, 0);
+}
+
+#pink{
+    background: rgb(236, 99, 122);
+}
